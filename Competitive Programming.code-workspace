@@ -51,7 +51,8 @@
 			"**/.project": true,
 			"**/.settings": true,
 			"**/.factorypath": true
-		}
+		},
+		"code-runner.clearPreviousOutput": true
 	},
 	"launch": {
 		"version": "0.2.0",
